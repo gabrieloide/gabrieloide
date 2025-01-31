@@ -19,4 +19,12 @@
 [![Windows Build](https://img.shields.io/badge/Descargar-Windows_App-blue?logo=windows)](https://github.com/.../windows-build.zip)
 [![Código Fuente](https://img.shields.io/badge/Download-Source_Code-orange?logo=git)](https://github.com/.../source-code.zip)
 
+[<img src="https://img.icons8.com/clouds/100/000000/download.png" width="100"/>](https://github.com/gabrieloide/gabrieloide/raw/main/ejemplo.zip)
+
+
+<a href="https://github.com/tu-usuario/tu-repo/raw/main/archivo.zip" download>
+  <img src="https://i.imgur.com/3QfT8zD.png" alt="Descargar ZIP" width="200"/>
+  <p>⬇️ Click aquí para descargar</p>
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
