@@ -15,6 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrieloide&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[<img src="https://img.icons8.com/clouds/100/000000/download.png" width="100"/>](https://github.com/gabrieloide/gabrieloide/raw/main/ejemplo.zip)
+# 📦 Descargas
+[![Windows Build](https://img.shields.io/badge/Descargar-Windows_App-blue?logo=windows)](https://github.com/.../windows-build.zip)
+[![Código Fuente](https://img.shields.io/badge/Download-Source_Code-orange?logo=git)](https://github.com/.../source-code.zip)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
