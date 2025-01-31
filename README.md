@@ -15,6 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrieloide&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![El Silbón](https://img.itch.zone/aW1hZ2UvMzA1NjE4NS8xODM1NTkzMi5wbmc=/347x500/3%2Fj%2Fg.png)](https://whitestorm0.itch.io/el-silbon)
+[![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NTU0LnBuZw==/original/BN97Z%2F.png)](https://whitestorm0.itch.io/el-silbon)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
