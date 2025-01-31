@@ -22,8 +22,7 @@
 [<img src="https://img.icons8.com/clouds/100/000000/download.png" width="100"/>](https://github.com/gabrieloide/gabrieloide/raw/main/ejemplo.zip)
 
 
-<a href="https://github.com/tu-usuario/tu-repo/raw/main/archivo.zip" download>
-  <img src="[https://i.imgur.com/3QfT8zD.png](https://github.com/account)" alt="Descargar ZIP" width="200"/>
+<a href="https://whitestorm0.itch.io/el-silbon/purchase" download>
   <p>⬇️ Click aquí para descargar</p>
 </a>
 
