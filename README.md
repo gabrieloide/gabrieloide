@@ -22,8 +22,10 @@
 [<img src="https://img.icons8.com/clouds/100/000000/download.png" width="100"/>](https://github.com/gabrieloide/gabrieloide/raw/main/ejemplo.zip)
 
 
-<a href="https://whitestorm0.itch.io/el-silbon/purchase" download>
-  <p>⬇️ Click aquí para descargar</p>
+# 🎮 Juegos Publicados
+
+[![El Silbón](https://img.shields.io/badge/ITCH.IO-El_Silbon-orange?style=for-the-badge&logo=itch.io)](https://whitestorm0.itch.io/el-silbon)
+[![Descargar](https://img.shields.io/badge/Download-Windows_Build-blue?style=for-the-badge&logo=windows)](https://github.com/.../windows-build.zip)
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
