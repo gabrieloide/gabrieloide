@@ -23,9 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrieloide&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://whitestorm0.itch.io/el-silbon)
-
-# 🕹️ Descarga Directa
-[![Windows Build](https://img.shields.io/badge/Download-Windows_Executable-0078d7?style=for-the-badge&logo=windowsxp)](https://github.com/gabrieloide/gabrieloide/releases/download/untagged-ff10bed0ff3da2ec2248/el-silbon-win.zip)
+[![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/gabrieloide/releases/download/untagged-ff10bed0ff3da2ec2248/el-silbon-win.zip)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
