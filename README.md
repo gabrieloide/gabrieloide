@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/tu-usuario/tu-repo/raw/main/archivo.zip" download>
-  <img src="https://i.imgur.com/3QfT8zD.png" alt="Descargar ZIP" width="200"/>
+  <img src="[https://i.imgur.com/3QfT8zD.png](https://github.com/account)" alt="Descargar ZIP" width="200"/>
   <p>⬇️ Click aquí para descargar</p>
 </a>
 
