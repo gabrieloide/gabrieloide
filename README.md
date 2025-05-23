@@ -23,7 +23,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrieloide&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Video Highlights](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/fwu2YGqbwvM)
+# 🎮 Game Projects Showcase
+[![Video Highlights](https://img.youtube.com/vi/fwu2YGqbwvM/0.jpg)](https://youtu.be/fwu2YGqbwvM)
 
 # 🎮 Projects:
 [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/gabrieloide/releases/download/untagged-ff10bed0ff3da2ec2248/el-silbon-win.zip)
