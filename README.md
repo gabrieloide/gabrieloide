@@ -37,7 +37,7 @@ Passionate about developing solid game mechanics, interactive systems, and archi
 
 | **El Silbón** | **Pío the Chick** | **Horse Dicing** |
 | :---: | :---: | :---: |
-| [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/el-silbon) | [![Pío the Chick](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Pio%20the%20chick%20Logo.png)](https://github.com/gabrieloide/pio-the-chick) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
+| [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/Scream-Fest-2024.git) | [![Pío the Chick](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Pio%20the%20chick%20Logo.png)](https://github.com/gabrieloide/pio-the-chick) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
 | [📂 View Code](https://github.com/gabrieloide/el-silbon) | [📂 View Code](https://github.com/gabrieloide/pio-the-chick) | [🚀 View on Play Store](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
 | *Horror Tech Demo* | *Roguelike / Farm* | *Racing / Multiplayer* |
 | 3D audio implementation and event triggers. | Combat system and Power-up logic. | Racing logic and **Docker Backend**. |
