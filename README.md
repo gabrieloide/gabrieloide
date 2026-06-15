@@ -35,18 +35,18 @@ Passionate about developing solid game mechanics, interactive systems, and archi
 
 # 🎮 Featured Projects:
 
-| **El Silbón** | **Retro Sound Synthesizer** | **Horse Dicing** |
-| :---: | :---: | :---: |
-| [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/el-silbon) | [![Retro Sound Synthesizer](https://raw.githubusercontent.com/gabrieloide/Retro-Sound-Synthesizer/main/Assets/Documentation/Banner.png)](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
-| [📂 View Code](https://github.com/gabrieloide/el-silbon) | [📂 View Code](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [🚀 View on Play Store](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
-| *Horror Tech Demo* | *Editor Tooling / Audio Synth* | *Racing / Multiplayer* |
-| 3D audio implementation and event triggers. | **Procedural 8/16-bit Synthesis** and **WAV Exporter**. | Racing logic and **Docker Backend**. |
+| **Truco Online** | **El Silbón** | **Retro Sound Synthesizer** | **Horse Dicing** |
+| :---: | :---: | :---: | :---: |
+| [![Truco Online](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Truco%20Logo.png)](https://github.com/gabrieloide/truco-online) | [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/el-silbon) | [![Retro Sound Synthesizer](https://raw.githubusercontent.com/gabrieloide/Retro-Sound-Synthesizer/main/Assets/Documentation/Banner.png)](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
+| [📂 View Code](https://github.com/gabrieloide/truco-online) | [📂 View Code](https://github.com/gabrieloide/el-silbon) | [📂 View Code](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [🚀 View on Play Store](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
+| *Card Game / Multiplayer* | *Horror Tech Demo* | *Editor Tooling / Audio Synth* | *Racing / Multiplayer* |
+| **Turn-based logic** and state synchronization. | 3D audio implementation and event triggers. | **Procedural 8/16-bit Synthesis** and **WAV Exporter**. | Racing logic and **Docker Backend**. |
 
-| **Pío the Chick** | **One-Way Down** | **Ebbing Tides** |
-| :---: | :---: | :---: |
-| [![Pío the Chick](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Pio%20the%20chick%20Logo.png)](https://github.com/gabrieloide/pio-the-chick) | [![One-Way Down](https://img.itch.zone/aW1nLzI2OTI4Njc5LnBuZw==/315x250%23c/%2Blb%2FHT.png)](https://github.com/gabrieloide/one-way-down) | [![Ebbing Tides](https://img.itch.zone/aW1nLzI3MzI2MDkzLnBuZw==/original/KoqIR1.png)](https://github.com/gabrieloide/MicroJam-Tides) |
-| [📂 View Code](https://github.com/gabrieloide/pio-the-chick) | [📂 View Code](https://github.com/gabrieloide/one-way-down) | [📂 View Code](https://github.com/gabrieloide/MicroJam-Tides) |
-| *Roguelike / Farm* | *1-Bit Retro / Platformer* | *3D Diorama / Card Game* |
-| Combat system and Power-up logic. | **Modular Architecture** and **DOTween** juice. | **Dynamic Weather System** and **Stat Degradation**. |
+| **Pío the Chick** | **One-Way Down** | **Ebbing Tides** | |
+| :---: | :---: | :---: | :---: |
+| [![Pío the Chick](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Pio%20the%20chick%20Logo.png)](https://github.com/gabrieloide/pio-the-chick) | [![One-Way Down](https://img.itch.zone/aW1nLzI2OTI4Njc5LnBuZw==/315x250%23c/%2Blb%2FHT.png)](https://github.com/gabrieloide/one-way-down) | [![Ebbing Tides](https://img.itch.zone/aW1nLzI3MzI2MDkzLnBuZw==/original/KoqIR1.png)](https://github.com/gabrieloide/MicroJam-Tides) | |
+| [📂 View Code](https://github.com/gabrieloide/pio-the-chick) | [📂 View Code](https://github.com/gabrieloide/one-way-down) | [📂 View Code](https://github.com/gabrieloide/MicroJam-Tides) | |
+| *Roguelike / Farm* | *1-Bit Retro / Platformer* | *3D Diorama / Card Game* | |
+| Combat system and Power-up logic. | **Modular Architecture** and **DOTween** juice. | **Dynamic Weather System** and **Stat Degradation**. | |
 
 ---
