@@ -45,7 +45,7 @@ Passionate about developing solid game mechanics, interactive systems, and archi
 | **Pío the Chick** | **One-Way Down** | **Ebbing Tides** | |
 | :---: | :---: | :---: | :---: |
 | [![Pío the Chick](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Pio%20the%20chick%20Logo.png)](https://github.com/gabrieloide/pio-the-chick) | [![One-Way Down](https://img.itch.zone/aW1nLzI2OTI4Njc5LnBuZw==/315x250%23c/%2Blb%2FHT.png)](https://github.com/gabrieloide/one-way-down) | [![Ebbing Tides](https://img.itch.zone/aW1nLzI3MzI2MDkzLnBuZw==/original/KoqIR1.png)](https://github.com/gabrieloide/MicroJam-Tides) | |
-| [📂 View Code](https://github.com/gabrieloide/pio-the-chick) | [📂 View Code](https://github.com/gabrieloide/one-way-down) | [📂 View Code](https://github.com/gabrieloide/MicroJam-Tides) | |
+| [📂 View Code](https://github.com/gabrieloide/pio-the-chick) | [📂 View Code](https://github.com/gabrieloide/MiniJam209Deep) | [📂 View Code](https://github.com/gabrieloide/MicroJam-Tides) | |
 | *Roguelike / Farm* | *1-Bit Retro / Platformer* | *3D Diorama / Card Game* | |
 | Combat system and Power-up logic. | **Modular Architecture** and **DOTween** juice. | **Dynamic Weather System** and **Stat Degradation**. | |
 
