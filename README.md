@@ -35,10 +35,10 @@ Passionate about developing solid game mechanics, interactive systems, and archi
 
 # 🎮 Featured Projects:
 
-| **Truco Online** | **El Silbón** | **Retro Sound Synthesizer** | **Horse Dicing** |
+| **Truco Definitivo** | **El Silbón** | **Retro Sound Synthesizer** | **Horse Dicing** |
 | :---: | :---: | :---: | :---: |
-| [![Truco Online](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Truco%20Logo.png)](https://github.com/gabrieloide/Truco-Definitivo) | [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/el-silbon) | [![Retro Sound Synthesizer](https://raw.githubusercontent.com/gabrieloide/Retro-Sound-Synthesizer/main/Assets/Documentation/Banner.png)](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
-| [📂 View Code](https://github.com/gabrieloide/truco-online) | [📂 View Code](https://github.com/gabrieloide/el-silbon) | [📂 View Code](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [🚀 View on Play Store](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
+| [![Truco Definitivo](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Truco%20Logo.png)](https://github.com/gabrieloide/Truco-Definitivo) | [![El Silbón](https://img.itch.zone/aW1nLzE4MzA2NzUxLnBuZw==/315x250%23c/5xw5Eo.png)](https://github.com/gabrieloide/el-silbon) | [![Retro Sound Synthesizer](https://raw.githubusercontent.com/gabrieloide/Retro-Sound-Synthesizer/main/Assets/Documentation/Banner.png)](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [![Horse Dicing](https://raw.githubusercontent.com/gabrieloide/gabrieloide/master/Assets/Horse%20Dicing%20Logo.png)](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
+| [📂 View Code](https://github.com/gabrieloide/Truco-Definitivo) | [📂 View Code](https://github.com/gabrieloide/el-silbon) | [📂 View Code](https://github.com/gabrieloide/Retro-Sound-Synthesizer) | [🚀 View on Play Store](https://play.google.com/store/apps/details?id=com.alexis.horsedicing) |
 | *Card Game / Multiplayer* | *Horror Tech Demo* | *Editor Tooling / Audio Synth* | *Racing / Multiplayer* |
 | **Turn-based logic** and state synchronization. | 3D audio implementation and event triggers. | **Procedural 8/16-bit Synthesis** and **WAV Exporter**. | Racing logic and **Docker Backend**. |
 
